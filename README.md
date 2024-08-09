@@ -2,9 +2,5 @@
 
 ## Descrição
 
-Este repositório contém uma implementação de um leitor de QR Code em Python. O código utiliza a biblioteca `opencv` para capturar imagens e a biblioteca `pyzbar` para decodificar QR Codes presentes nas imagens.
-
-## Estrutura do Repositório
-
-- `leitor_qrcode.py`: Implementação do leitor de QR Code.
+Este repositório contém uma aplicação React Native para leitura de QR Codes. Utiliza a biblioteca `react-native-camera` para capturar imagens e a biblioteca `react-native-qrcode-scanner` para decodificar QR Codes presentes na imagem.
 
